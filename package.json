@@ -1,5 +1,5 @@
 {
-  "name": "electron-with-create-react-app",
+  "name": "mrlink",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -28,6 +28,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "electron": "electron .",
-    "electron-app": "nf start -p 3000"
+    "dev": "nf start -p 3000"
   }
 }
