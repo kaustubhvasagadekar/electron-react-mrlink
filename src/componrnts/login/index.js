@@ -1,7 +1,7 @@
 import React from 'react';
 import { Tab, Tabs, Sonnet } from "react-bootstrap"
 
-export default props =>
+export default props =>(
     
 <div>
 <Tabs defaultActiveKey="profile" id="uncontrolled-tab-example">
@@ -18,3 +18,4 @@ export default props =>
 </div>
     
 
+);
